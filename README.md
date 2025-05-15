@@ -1,6 +1,6 @@
 # Welcome to my Github 😄
 # 💫 About Me:
-🎒 I'm a student at University of Information and Technology (UIT).<br>🔭 I’m currently looking for a internship in Frontend or Backend developer position.<br>🌱 I'm interested in learning about AI/ML for modern web development.<br>
+🎒 I'm a student at University of Information and Technology (UIT).<br>🔭 I’m currently looking for internship opportunities in Frontend or Backend developer position.<br>🌱 I'm interested in learning about AI/ML for modern web development.<br>
 
 
 ## 🌐 Socials:
